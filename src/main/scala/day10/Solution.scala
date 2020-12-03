@@ -1,7 +1,6 @@
 package day10
 
 import common.FileToStringReader
-
 import scala.annotation.tailrec
 
 object Solution extends App {
